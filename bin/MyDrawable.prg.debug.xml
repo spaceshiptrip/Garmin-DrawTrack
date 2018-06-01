@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="24" pc="268435456" symbol="initialize"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="25" pc="268435460" symbol="initialize"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="26" pc="268435478" symbol="initialize"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="27" pc="268435520" symbol="initialize"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="28" pc="268435562" symbol="initialize"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="37" pc="268435656" symbol="initialize"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="38" pc="268435674" symbol="initialize"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="41" pc="268435704" symbol="initialize"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="42" pc="268435729" symbol="initialize"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="43" pc="268435754" symbol="initialize"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="44" pc="268435779" symbol="initialize"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="45" pc="268435804" symbol="initialize"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="46" pc="268435829" symbol="initialize"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="47" pc="268435854" symbol="initialize"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="48" pc="268435879" symbol="initialize"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="49" pc="268435904" symbol="initialize"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="50" pc="268435929" symbol="initialize"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="52" pc="268435954" symbol="initialize"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="53" pc="268435972" symbol="initialize"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="59" pc="268436003" symbol="onLayout"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="61" pc="268436007" symbol="onLayout"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="62" pc="268436026" symbol="onLayout"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="64" pc="268436045" symbol="onLayout"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="66" pc="268436063" symbol="onLayout"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="67" pc="268436118" symbol="onLayout"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="71" pc="268436186" symbol="onLayout"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="72" pc="268436222" symbol="onLayout"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="73" pc="268436266" symbol="onLayout"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="75" pc="268436302" symbol="onLayout"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="76" pc="268436320" symbol="onLayout"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="77" pc="268436386" symbol="onLayout"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="85" pc="268436446" symbol="onShow"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="89" pc="268436451" symbol="onUpdate"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="92" pc="268436455" symbol="onUpdate"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="98" pc="268436491" symbol="onUpdate"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="99" pc="268436531" symbol="onUpdate"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="100" pc="268436583" symbol="onUpdate"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="101" pc="268436635" symbol="onUpdate"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="102" pc="268436687" symbol="onUpdate"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="103" pc="268436739" symbol="onUpdate"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="104" pc="268436785" symbol="onUpdate"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="105" pc="268436831" symbol="onUpdate"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="106" pc="268436877" symbol="onUpdate"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableApp.mc" lineNum="11" pc="268436924" symbol="initialize"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableApp.mc" lineNum="12" pc="268436928" symbol="initialize"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableApp.mc" lineNum="16" pc="268436947" symbol="onStart"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableApp.mc" lineNum="20" pc="268436952" symbol="onStop"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableApp.mc" lineNum="24" pc="268436957" symbol="getInitialView"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableApp.mc" lineNum="25" pc="268436961" symbol="getInitialView"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="19" pc="268436999" symbol="initialize"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="20" pc="268437003" symbol="initialize"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="23" pc="268437028" symbol="draw"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="24" pc="268437032" symbol="draw"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="25" pc="268437039" symbol="draw"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="26" pc="268437046" symbol="draw"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="27" pc="268437059" symbol="draw"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="28" pc="268437072" symbol="draw"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="31" pc="268437095" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="32" pc="268437099" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="33" pc="268437135" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="34" pc="268437179" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="36" pc="268437215" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="37" pc="268437251" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="39" pc="268437296" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="40" pc="268437332" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="42" pc="268437377" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="43" pc="268437413" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="45" pc="268437475" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="46" pc="268437511" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="48" pc="268437578" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="49" pc="268437614" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="50" pc="268437659" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="51" pc="268437695" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="53" pc="268437740" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="54" pc="268437776" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="56" pc="268437843" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="57" pc="268437879" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="59" pc="268438161" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="60" pc="268438197" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="61" pc="268438247" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="62" pc="268438283" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="64" pc="268438345" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="65" pc="268438381" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="67" pc="268438443" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="68" pc="268438479" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="70" pc="268438541" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="71" pc="268438577" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="84" pc="268438948" symbol="initialize"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="85" pc="268438952" symbol="initialize"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="88" pc="268438977" symbol="draw"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="89" pc="268438981" symbol="draw"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="90" pc="268438988" symbol="draw"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="91" pc="268438995" symbol="draw"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="92" pc="268439008" symbol="draw"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="93" pc="268439021" symbol="draw"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="96" pc="268439044" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="97" pc="268439048" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="98" pc="268439084" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="99" pc="268439128" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="101" pc="268439164" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="102" pc="268439200" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="104" pc="268439250" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="105" pc="268439286" symbol="drawComplex"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388644" module="true" symbol="System"/>
+<entry id="10" object="true" symbol="MyApp"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="20" method="true" symbol="drawComplex"/>
+<entry id="8388924" module="true" symbol="Gregorian"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="21" symbol="AppName"/>
+<entry id="9" object="true" symbol="MyWatchView"/>
+<entry field="true" id="12" object="true" symbol="backdrop"/>
+<entry field="true" id="19" symbol="LauncherIcon"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="16" symbol="latLon"/>
+<entry field="true" id="14" symbol="MAP_WIDTH"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="15" symbol="MAP_HEIGHT"/>
+<entry id="18" module="true" symbol="Layouts"/>
+<entry field="true" id="11" object="true" symbol="train"/>
+<entry field="true" id="13" symbol="cloud"/>
+<entry field="true" id="8389764" symbol="points"/>
+<entry id="8389345" symbol="rezId"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="17" module="true" symbol="Menus"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="8388635" module="true" symbol="Application"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435704" name="i" stackId="1" startPc="268435674"/>
+<entry endPc="268436002" name="i" stackId="2" startPc="268435972"/>
+<entry endPc="268436186" name="i" stackId="2" startPc="268436063"/>
+<entry endPc="268436445" name="i" stackId="3" startPc="268436320"/>
+<entry endPc="268436446" name="dc" stackId="1" startPc="268436003"/>
+<entry endPc="268436924" name="dc" stackId="1" startPc="268436451"/>
+<entry endPc="268436952" name="state" stackId="1" startPc="268436947"/>
+<entry endPc="268436957" name="state" stackId="1" startPc="268436952"/>
+<entry endPc="268437094" name="pWidth" stackId="4" startPc="268437032"/>
+<entry endPc="268437094" name="pY" stackId="3" startPc="268437032"/>
+<entry endPc="268437094" name="pX" stackId="2" startPc="268437032"/>
+<entry endPc="268437094" name="pHeight" stackId="5" startPc="268437032"/>
+<entry endPc="268437095" name="dc" stackId="1" startPc="268437028"/>
+<entry endPc="268438948" name="pWidth" stackId="4" startPc="268437095"/>
+<entry endPc="268438948" name="dc" stackId="1" startPc="268437095"/>
+<entry endPc="268438948" name="pY" stackId="3" startPc="268437095"/>
+<entry endPc="268438948" name="pX" stackId="2" startPc="268437095"/>
+<entry endPc="268438948" name="pHeight" stackId="5" startPc="268437095"/>
+<entry endPc="268439043" name="pWidth" stackId="4" startPc="268438981"/>
+<entry endPc="268439043" name="pY" stackId="3" startPc="268438981"/>
+<entry endPc="268439043" name="pX" stackId="2" startPc="268438981"/>
+<entry endPc="268439043" name="pHeight" stackId="5" startPc="268438981"/>
+<entry endPc="268439044" name="dc" stackId="1" startPc="268438977"/>
+<entry endPc="268439332" name="pWidth" stackId="4" startPc="268439044"/>
+<entry endPc="268439332" name="dc" stackId="1" startPc="268439044"/>
+<entry endPc="268439332" name="pY" stackId="3" startPc="268439044"/>
+<entry endPc="268439332" name="pX" stackId="2" startPc="268439044"/>
+<entry endPc="268439332" name="pHeight" stackId="5" startPc="268439044"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="MyWatchView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="MyWatchView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="MyWatchView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="MyWatchView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="MyApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="MyApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="MyApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="MyApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="train">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="draw" parent="train">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawComplex" parent="train">
+<param id="dc"/>
+<param id="pX"/>
+<param id="pY"/>
+<param id="pWidth"/>
+<param id="pHeight"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="backdrop">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="draw" parent="backdrop">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawComplex" parent="backdrop">
+<param id="dc"/>
+<param id="pX"/>
+<param id="pY"/>
+<param id="pWidth"/>
+<param id="pHeight"/>
+<documentation/>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="166" parentId="globals" symbolId="MyWatchView" type="class"/>
+<dataEntry offset="293" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="372" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="435" parentId="Drawables" symbolId="backdrop" type="class"/>
+<dataEntry offset="498" parentId="Drawables" symbolId="train" type="class"/>
+<dataEntry offset="561" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="592" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="623" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="654" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="685" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="724" parentId="globals" symbolId="MyApp" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>
