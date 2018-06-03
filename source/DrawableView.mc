@@ -14,7 +14,9 @@ class MyWatchView extends WatchUi.View {
 
     var train;
     var backdrop;
-    var cloud;
+    var gpxTrack;
+    var blueArrow;
+    var blueCircle;
     var MAP_WIDTH;
     var MAP_HEIGHT;
     var latLon = new[5];
@@ -25,18 +27,14 @@ class MyWatchView extends WatchUi.View {
         View.initialize();
         train = new Rez.Drawables.train();
         backdrop = new Rez.Drawables.backdrop();
-        cloud = new WatchUi.Bitmap({:rezId=>Rez.Drawables.cloud,:locX=>10,:locY=>30});
+        gpxTrack = new WatchUi.Bitmap({:rezId=>Rez.Drawables.gpxTrack,:locX=>0,:locY=>0});
+        blueCircle = new WatchUi.Bitmap({:rezId=>Rez.Drawables.circle,:locX=>174,:locY=>33});
         
-//lat="37.778259000" lon="-122.391386000">
-//lat="37.778194000" lon="-122.391226000">
-//lat="37.778297000" lon="-122.391174000">
-//lat="37.778378000" lon="-122.391117000">
-//lat="37.778449000" lon="-122.391039000">
-//lat="37.778525000" lon="-122.390942000">
-// Initialize the sub-arrays
-for( var i = 0; i < 5; i += 1 ) {
-    latLon[i] = new [2];
-}
+
+        // Initialize the sub-arrays
+		for( var i = 0; i < 5; i += 1 ) {
+    		latLon[i] = new [2];
+		}
 
         latLon[0][0] = 37.778194000;
         latLon[0][1] = -122.391226000;
@@ -87,28 +85,30 @@ for( var i = 0; i < 5; i += 1 ) {
 
     // Update the view
     function onUpdate(dc) {
-//        dc.setColor(Graphics.COLOR_BLUE, Graphics.COLOR_BLACK);
-//        dc.fillRectangle(0, 0, dc.getWidth(), dc.getHeight());
-        dc.setColor(Graphics.COLOR_RED, Graphics.COLOR_RED);
+
+		gpxTrack.draw(dc);
+		
+		
+        blueCircle.setLocation( (174-7), (33-7)); 
+        blueCircle.draw(dc);
+		
+        dc.setColor(Graphics.COLOR_BLUE, Graphics.COLOR_BLUE);
         
-//        for (var i=0; i<5; i++) {
-//          dc.drawPoint(points[i][0], points[i][1]);
-//        }
-        
-        dc.drawPoint(MAP_HEIGHT/2, MAP_WIDTH/2);
-        dc.drawPoint(MAP_HEIGHT/2 + 1, MAP_WIDTH/2 + 1);
-        dc.drawPoint(MAP_HEIGHT/2 - 1, MAP_WIDTH/2 - 1);
-        dc.drawPoint(MAP_HEIGHT/2 + 1, MAP_WIDTH/2 - 1);
-        dc.drawPoint(MAP_HEIGHT/2 - 1, MAP_WIDTH/2 + 1);
-        dc.drawPoint(MAP_HEIGHT/2 + 1, MAP_WIDTH/2);
-        dc.drawPoint(MAP_HEIGHT/2 - 1, MAP_WIDTH/2);
-        dc.drawPoint(MAP_HEIGHT/2, MAP_WIDTH/2 + 1);
-        dc.drawPoint(MAP_HEIGHT/2, MAP_WIDTH/2 - 1);
-        
+		var ctrX = 174;
+		var ctrY = 33;
+		
+        dc.drawPoint(ctrX, ctrY);
+        dc.drawPoint(ctrX + 1, ctrY + 1);
+        dc.drawPoint(ctrX - 1, ctrY - 1);
+        dc.drawPoint(ctrX + 1, ctrY - 1);
+        dc.drawPoint(ctrX - 1, ctrY + 1);
+        dc.drawPoint(ctrX + 1, ctrY);
+        dc.drawPoint(ctrX - 1, ctrY);
+        dc.drawPoint(ctrX, ctrY + 1);
+        dc.drawPoint(ctrX, ctrY - 1);        
         
         //backdrop.draw(dc);
         //train.draw(dc);
-        //cloud.draw(dc);
     }
 
 }
