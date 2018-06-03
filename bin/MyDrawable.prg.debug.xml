@@ -56,6 +56,60 @@
 <entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableApp.mc" lineNum="20" pc="268436912" symbol="onStop"/>
 <entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableApp.mc" lineNum="24" pc="268436917" symbol="getInitialView"/>
 <entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableApp.mc" lineNum="25" pc="268436921" symbol="getInitialView"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="21" pc="268436959" symbol="initialize"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="22" pc="268436963" symbol="initialize"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="25" pc="268436988" symbol="draw"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="26" pc="268436992" symbol="draw"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="27" pc="268436999" symbol="draw"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="28" pc="268437006" symbol="draw"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="29" pc="268437019" symbol="draw"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="30" pc="268437032" symbol="draw"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="33" pc="268437055" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="34" pc="268437059" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="35" pc="268437095" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="36" pc="268437139" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="38" pc="268437175" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="39" pc="268437211" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="41" pc="268437265" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="42" pc="268437301" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="44" pc="268437346" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="45" pc="268437382" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="47" pc="268437444" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="48" pc="268437480" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="50" pc="268437547" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="51" pc="268437583" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="52" pc="268437628" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="53" pc="268437664" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="55" pc="268437709" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="56" pc="268437745" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="58" pc="268437812" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="59" pc="268437848" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="61" pc="268438130" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="62" pc="268438166" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="63" pc="268438216" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="64" pc="268438252" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="66" pc="268438314" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="67" pc="268438350" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="69" pc="268438412" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="70" pc="268438448" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="72" pc="268438510" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="73" pc="268438546" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="86" pc="268438917" symbol="initialize"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="87" pc="268438921" symbol="initialize"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="90" pc="268438946" symbol="draw"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="91" pc="268438950" symbol="draw"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="92" pc="268438957" symbol="draw"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="93" pc="268438964" symbol="draw"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="94" pc="268438977" symbol="draw"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="95" pc="268438990" symbol="draw"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="98" pc="268439013" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="99" pc="268439017" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="100" pc="268439053" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="101" pc="268439097" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="103" pc="268439133" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="104" pc="268439169" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="106" pc="268439228" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="107" pc="268439264" symbol="drawComplex"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8388644" module="true" symbol="System"/>
@@ -65,15 +119,17 @@
 <entry field="true" id="8388611" module="true" symbol="Toybox"/>
 <entry id="8388770" module="true" object="true" symbol="Strings"/>
 <entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389068" method="true" symbol="draw"/>
 <entry id="8388640" module="true" symbol="Lang"/>
 <entry id="8388639" module="true" symbol="Graphics"/>
 <entry id="8388769" module="true" object="true" symbol="Rez"/>
 <entry id="8389123" method="true" symbol="onShow"/>
+<entry id="24" method="true" symbol="drawComplex"/>
 <entry id="8388924" module="true" symbol="Gregorian"/>
 <entry id="8388702" method="true" symbol="initialize"/>
-<entry field="true" id="24" symbol="AppName"/>
+<entry field="true" id="25" symbol="AppName"/>
 <entry id="9" object="true" symbol="MyWatchView"/>
-<entry field="true" id="12" symbol="backdrop"/>
+<entry field="true" id="12" object="true" symbol="backdrop"/>
 <entry field="true" id="15" symbol="blueCircle"/>
 <entry field="true" id="23" symbol="LauncherIcon"/>
 <entry id="8388648" module="true" symbol="WatchUi"/>
@@ -87,7 +143,7 @@
 <entry id="8389279" method="true" symbol="onStart"/>
 <entry field="true" id="17" symbol="MAP_HEIGHT"/>
 <entry id="20" module="true" symbol="Layouts"/>
-<entry field="true" id="11" symbol="train"/>
+<entry field="true" id="11" object="true" symbol="train"/>
 <entry field="true" id="8389764" symbol="points"/>
 <entry field="true" id="22" symbol="circle"/>
 <entry id="8389345" symbol="rezId"/>
@@ -109,6 +165,26 @@
 <entry endPc="268436884" name="dc" stackId="1" startPc="268436545"/>
 <entry endPc="268436912" name="state" stackId="1" startPc="268436907"/>
 <entry endPc="268436917" name="state" stackId="1" startPc="268436912"/>
+<entry endPc="268437054" name="pWidth" stackId="4" startPc="268436992"/>
+<entry endPc="268437054" name="pY" stackId="3" startPc="268436992"/>
+<entry endPc="268437054" name="pX" stackId="2" startPc="268436992"/>
+<entry endPc="268437054" name="pHeight" stackId="5" startPc="268436992"/>
+<entry endPc="268437055" name="dc" stackId="1" startPc="268436988"/>
+<entry endPc="268438917" name="pWidth" stackId="4" startPc="268437055"/>
+<entry endPc="268438917" name="dc" stackId="1" startPc="268437055"/>
+<entry endPc="268438917" name="pY" stackId="3" startPc="268437055"/>
+<entry endPc="268438917" name="pX" stackId="2" startPc="268437055"/>
+<entry endPc="268438917" name="pHeight" stackId="5" startPc="268437055"/>
+<entry endPc="268439012" name="pWidth" stackId="4" startPc="268438950"/>
+<entry endPc="268439012" name="pY" stackId="3" startPc="268438950"/>
+<entry endPc="268439012" name="pX" stackId="2" startPc="268438950"/>
+<entry endPc="268439012" name="pHeight" stackId="5" startPc="268438950"/>
+<entry endPc="268439013" name="dc" stackId="1" startPc="268438946"/>
+<entry endPc="268439310" name="pWidth" stackId="4" startPc="268439013"/>
+<entry endPc="268439310" name="dc" stackId="1" startPc="268439013"/>
+<entry endPc="268439310" name="pY" stackId="3" startPc="268439013"/>
+<entry endPc="268439310" name="pX" stackId="2" startPc="268439013"/>
+<entry endPc="268439310" name="pHeight" stackId="5" startPc="268439013"/>
 </localVars>
 <annotations/>
 <functions>
@@ -140,17 +216,49 @@
 <functionEntry accessMode="public" name="getInitialView" parent="MyApp">
 <documentation/>
 </functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="train">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="draw" parent="train">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawComplex" parent="train">
+<param id="dc"/>
+<param id="pX"/>
+<param id="pY"/>
+<param id="pWidth"/>
+<param id="pHeight"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="backdrop">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="draw" parent="backdrop">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawComplex" parent="backdrop">
+<param id="dc"/>
+<param id="pX"/>
+<param id="pY"/>
+<param id="pWidth"/>
+<param id="pHeight"/>
+<documentation/>
+</functionEntry>
 </functions>
 <dataEntryOffsetMappings>
 <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
 <dataEntry offset="166" parentId="globals" symbolId="MyWatchView" type="class"/>
 <dataEntry offset="309" parentId="globals" symbolId="Rez" type="module"/>
 <dataEntry offset="388" parentId="Rez" symbolId="Drawables" type="module"/>
-<dataEntry offset="451" parentId="Rez" symbolId="Menus" type="module"/>
-<dataEntry offset="482" parentId="Rez" symbolId="Fonts" type="module"/>
-<dataEntry offset="513" parentId="Rez" symbolId="JsonData" type="module"/>
-<dataEntry offset="544" parentId="Rez" symbolId="Layouts" type="module"/>
-<dataEntry offset="575" parentId="Rez" symbolId="Strings" type="module"/>
-<dataEntry offset="614" parentId="globals" symbolId="MyApp" type="class"/>
+<dataEntry offset="467" parentId="Drawables" symbolId="backdrop" type="class"/>
+<dataEntry offset="530" parentId="Drawables" symbolId="train" type="class"/>
+<dataEntry offset="593" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="624" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="655" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="686" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="717" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="756" parentId="globals" symbolId="MyApp" type="class"/>
 </dataEntryOffsetMappings>
 </debugInfo>
