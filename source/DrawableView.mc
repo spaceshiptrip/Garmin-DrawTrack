@@ -26,17 +26,17 @@ class MyWatchView extends WatchUi.View {
     var latLon = new[5];
     var points = new[5];
     
-    var locCtrX = 52;
-	var locCtrY = 112;
+    var locCtrX;
+	var locCtrY;
 	var markerImgHeight = 14;
 	var markerImgWidth  = 14;
 	
 	var currLocDeg; // current location in degrees
 	var currLocRad; // current location in radians
 	
-	//actual point on AC map
-	var currLocLatDeg = 34.203490;
-	var currLocLonDeg = -118.210360;
+	//actual point on map
+	var currLocLatDeg = 34.19536;
+	var currLocLonDeg = -118.21215;
 	
 	var currLocLatRad;
 	var currLocLonRad;
@@ -50,16 +50,15 @@ class MyWatchView extends WatchUi.View {
 	var DISPLAY_HEIGHT  = 180;
 	var DISPLAY_WIDTH   = 215;
 	
-//	var minX = -2.062456158852299;
-//    var minY = 0.6357554191207595;
-//    var maxX = 0.00935990988441926;
-//    var maxY = 0.004003124971883487;
+	var minX = -2.062456158852299;
+    var minY = 0.6357554191207595;
+    var maxX = 0.00935990988441926;
+    var maxY = 0.004003124971883487;
 
-	var minX = -2.06245615885229;
-    var minY = 0.6353264897906945;
-    var maxX = 0.0008824384698082;
-    var maxY = 0.0006327755713624;
-
+//	var minX = -2.0639926885539306;
+//    var minY = 0.6353264897906945;
+//    var maxX = 0.0008824384698082;
+//    var maxY = 0.0006327755713624;
     
     var currLocFromGPS;
 	
@@ -67,11 +66,10 @@ class MyWatchView extends WatchUi.View {
     // Constructor
     function initialize() {
         View.initialize();
-        train    = new Rez.Drawables.train();
-        backdrop = new Rez.Drawables.backdrop();
+        //train    = new Rez.Drawables.train();
+        //backdrop = new Rez.Drawables.backdrop();
         gpxTrack = new WatchUi.Bitmap({:rezId=>Rez.Drawables.gpxTrack,:locX=>0,:locY=>0});
         blueCircle = new WatchUi.Bitmap({:rezId=>Rez.Drawables.circle,:locX=>174,:locY=>33});
-        
         
 //      LOCATION_ONE_SHOT for a single location request
 //		LOCATION_CONTINUOUS to enable location tracking
@@ -106,11 +104,11 @@ class MyWatchView extends WatchUi.View {
     	currLocDeg = info.position.toDegrees();
     	currLocRad = info.position.toRadians();
     	
-    	currLocLatRad = currLocRad[0];
-    	currLocLonRad = currLocRad[1];
+    	currLocLonRad = currLocRad[0];  // array is lon lat
+    	currLocLatRad = currLocRad[1];  // array is lon lat
     	
-    	System.println(currLocDeg[0]); // latitude (e.g. 38.856147)
-    	System.println(currLocDeg[1]); // longitude (e.g -94.800953)
+    	System.println(currLocDeg[0]); // longitude (e.g -94.800953) 
+    	System.println(currLocDeg[1]); // latitude (e.g. 38.856147)
     	
     	WatchUi.requestUpdate();
     	
@@ -171,6 +169,10 @@ class MyWatchView extends WatchUi.View {
         var mercatorX = currLocLonRad;
         var mercatorY = Math.log(Math.tan(QUARTER_PI + 0.5 * currLocLatRad), Math.E); // need LOG(TAN(PI/4 + 0.5 * currLocLatRad
 
+		// The reason we need to determine the min X and Y values is
+		// because in order to draw the map,
+		// we need to offset the position so that there will be no
+		// negative X and Y values
 		if ( (minX == -1) || (minX > mercatorX) ) {
 		    minX = mercatorX;
 		} 
@@ -219,11 +221,9 @@ class MyWatchView extends WatchUi.View {
         
         // compute the actual screen coordinates capable of being drawn onscreen
        	currLocScreenX = (widthPadding + (positiveX * globalRatio)).toNumber();
-       	//currLocScreenX = currLocScreenXF.toNumber();
 
 		// need to invert the Y since 0,0 starts at top left
 		currLocScreenY = ((DISPLAY_HEIGHT - heightPadding - (positiveY * globalRatio))).toNumber();
-		//currLocScreenY = currLocScreenYF.toNumber();
     }
     
     // This method is called when the device re-enters sleep mode.

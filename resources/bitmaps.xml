@@ -1,6 +1,6 @@
 <resources>
     <bitmap id="LauncherIcon" filename="images/icon.png" />
-    <bitmap id="gpxTrack" filename="images/4048853-fr235.png" />
+    <bitmap id="gpxTrack" filename="images/ac-fr235.png" />
     <bitmap id="arrow" filename="images/blueArrow20x20.png" />
     <bitmap id="circle" filename="images/blueCircle14x14.png" />
 </resources>
