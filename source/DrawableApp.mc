@@ -14,7 +14,7 @@ class MyApp extends Application.AppBase {
     function initialize() {
         AppBase.initialize();
         
-        System.println("=" + getProperty("FirstProperty"));
+        System.println("FirstProperty=" + getProperty("FirstProperty"));
         
     }
 

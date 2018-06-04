@@ -12,106 +12,161 @@
 <entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="86" pc="268435793" symbol="initialize"/>
 <entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="87" pc="268435828" symbol="initialize"/>
 <entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="91" pc="268435864" symbol="onLayout"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="97" pc="268435869" symbol="onShow"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="103" pc="268435874" symbol="onPosition"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="104" pc="268435878" symbol="onPosition"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="105" pc="268435903" symbol="onPosition"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="107" pc="268435928" symbol="onPosition"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="108" pc="268435950" symbol="onPosition"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="110" pc="268435972" symbol="onPosition"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="111" pc="268436002" symbol="onPosition"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="113" pc="268436032" symbol="onPosition"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="121" pc="268436049" symbol="onUpdate"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="123" pc="268436053" symbol="onUpdate"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="125" pc="268436073" symbol="onUpdate"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="126" pc="268436104" symbol="onUpdate"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="127" pc="268436117" symbol="onUpdate"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="128" pc="268436157" symbol="onUpdate"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="132" pc="268436200" symbol="onUpdate"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="133" pc="268436235" symbol="onUpdate"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="135" pc="268436270" symbol="onUpdate"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="136" pc="268436282" symbol="onUpdate"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="138" pc="268436327" symbol="onUpdate"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="139" pc="268436391" symbol="onUpdate"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="141" pc="268436411" symbol="onUpdate"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="143" pc="268436447" symbol="onUpdate"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="144" pc="268436463" symbol="onUpdate"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="146" pc="268436479" symbol="onUpdate"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="147" pc="268436507" symbol="onUpdate"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="148" pc="268436547" symbol="onUpdate"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="149" pc="268436587" symbol="onUpdate"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="150" pc="268436627" symbol="onUpdate"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="151" pc="268436667" symbol="onUpdate"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="152" pc="268436701" symbol="onUpdate"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="153" pc="268436735" symbol="onUpdate"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="154" pc="268436769" symbol="onUpdate"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="166" pc="268436804" symbol="convertToScreenCoordinates"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="169" pc="268436808" symbol="convertToScreenCoordinates"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="170" pc="268436818" symbol="convertToScreenCoordinates"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="176" pc="268436885" symbol="convertToScreenCoordinates"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="177" pc="268436919" symbol="convertToScreenCoordinates"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="180" pc="268436932" symbol="convertToScreenCoordinates"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="181" pc="268436966" symbol="convertToScreenCoordinates"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="186" pc="268436979" symbol="convertToScreenCoordinates"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="187" pc="268436992" symbol="convertToScreenCoordinates"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="189" pc="268437005" symbol="convertToScreenCoordinates"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="190" pc="268437039" symbol="convertToScreenCoordinates"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="193" pc="268437052" symbol="convertToScreenCoordinates"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="194" pc="268437086" symbol="convertToScreenCoordinates"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="198" pc="268437099" symbol="convertToScreenCoordinates"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="201" pc="268437115" symbol="convertToScreenCoordinates"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="202" pc="268437128" symbol="convertToScreenCoordinates"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="205" pc="268437141" symbol="convertToScreenCoordinates"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="206" pc="268437154" symbol="convertToScreenCoordinates"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="210" pc="268437167" symbol="convertToScreenCoordinates"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="212" pc="268437167" symbol="convertToScreenCoordinates"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="213" pc="268437175" symbol="convertToScreenCoordinates"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="215" pc="268437182" symbol="convertToScreenCoordinates"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="219" pc="268437186" symbol="convertToScreenCoordinates"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="220" pc="268437214" symbol="convertToScreenCoordinates"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="223" pc="268437242" symbol="convertToScreenCoordinates"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="226" pc="268437267" symbol="convertToScreenCoordinates"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="231" pc="268437302" symbol="onEnterSleep"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="232" pc="268437306" symbol="onEnterSleep"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableApp.mc" lineNum="14" pc="268437323" symbol="initialize"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableApp.mc" lineNum="15" pc="268437327" symbol="initialize"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableApp.mc" lineNum="17" pc="268437345" symbol="initialize"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableApp.mc" lineNum="22" pc="268437386" symbol="onStart"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableApp.mc" lineNum="23" pc="268437390" symbol="onStart"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableApp.mc" lineNum="27" pc="268437439" symbol="onStop"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableApp.mc" lineNum="30" pc="268437444" symbol="onPosition"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableApp.mc" lineNum="31" pc="268437448" symbol="onPosition"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableApp.mc" lineNum="32" pc="268437477" symbol="onPosition"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableApp.mc" lineNum="36" pc="268437498" symbol="getInitialView"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableApp.mc" lineNum="38" pc="268437502" symbol="getInitialView"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableApp.mc" lineNum="39" pc="268437532" symbol="getInitialView"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/CoordinateTransformation.mc" lineNum="44" pc="268437556" symbol="convertToScreenCoordinates"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/CoordinateTransformation.mc" lineNum="47" pc="268437560" symbol="convertToScreenCoordinates"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/CoordinateTransformation.mc" lineNum="48" pc="268437570" symbol="convertToScreenCoordinates"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/CoordinateTransformation.mc" lineNum="54" pc="268437643" symbol="convertToScreenCoordinates"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/CoordinateTransformation.mc" lineNum="55" pc="268437677" symbol="convertToScreenCoordinates"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/CoordinateTransformation.mc" lineNum="58" pc="268437690" symbol="convertToScreenCoordinates"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/CoordinateTransformation.mc" lineNum="59" pc="268437724" symbol="convertToScreenCoordinates"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/CoordinateTransformation.mc" lineNum="64" pc="268437737" symbol="convertToScreenCoordinates"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/CoordinateTransformation.mc" lineNum="65" pc="268437750" symbol="convertToScreenCoordinates"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/CoordinateTransformation.mc" lineNum="67" pc="268437763" symbol="convertToScreenCoordinates"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/CoordinateTransformation.mc" lineNum="68" pc="268437797" symbol="convertToScreenCoordinates"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/CoordinateTransformation.mc" lineNum="71" pc="268437810" symbol="convertToScreenCoordinates"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/CoordinateTransformation.mc" lineNum="72" pc="268437844" symbol="convertToScreenCoordinates"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/CoordinateTransformation.mc" lineNum="76" pc="268437857" symbol="convertToScreenCoordinates"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/CoordinateTransformation.mc" lineNum="79" pc="268437873" symbol="convertToScreenCoordinates"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/CoordinateTransformation.mc" lineNum="80" pc="268437886" symbol="convertToScreenCoordinates"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/CoordinateTransformation.mc" lineNum="83" pc="268437899" symbol="convertToScreenCoordinates"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/CoordinateTransformation.mc" lineNum="84" pc="268437912" symbol="convertToScreenCoordinates"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/CoordinateTransformation.mc" lineNum="88" pc="268437925" symbol="convertToScreenCoordinates"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/CoordinateTransformation.mc" lineNum="90" pc="268437925" symbol="convertToScreenCoordinates"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/CoordinateTransformation.mc" lineNum="91" pc="268437933" symbol="convertToScreenCoordinates"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/CoordinateTransformation.mc" lineNum="93" pc="268437940" symbol="convertToScreenCoordinates"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/CoordinateTransformation.mc" lineNum="97" pc="268437944" symbol="convertToScreenCoordinates"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/CoordinateTransformation.mc" lineNum="98" pc="268437972" symbol="convertToScreenCoordinates"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/CoordinateTransformation.mc" lineNum="101" pc="268438000" symbol="convertToScreenCoordinates"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/CoordinateTransformation.mc" lineNum="104" pc="268438025" symbol="convertToScreenCoordinates"/>
-<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/CoordinateTransformation.mc" lineNum="114" pc="268438060" symbol="rotatePointToHeading"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="96" pc="268435868" symbol="onLayout"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="100" pc="268435889" symbol="onShow"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="106" pc="268435894" symbol="onPosition"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="107" pc="268435898" symbol="onPosition"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="108" pc="268435923" symbol="onPosition"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="110" pc="268435948" symbol="onPosition"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="111" pc="268435970" symbol="onPosition"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="113" pc="268435992" symbol="onPosition"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="114" pc="268436022" symbol="onPosition"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="116" pc="268436052" symbol="onPosition"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="124" pc="268436069" symbol="onUpdate"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="126" pc="268436073" symbol="onUpdate"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="128" pc="268436093" symbol="onUpdate"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="129" pc="268436124" symbol="onUpdate"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="130" pc="268436137" symbol="onUpdate"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="131" pc="268436177" symbol="onUpdate"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="135" pc="268436220" symbol="onUpdate"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="136" pc="268436255" symbol="onUpdate"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="138" pc="268436290" symbol="onUpdate"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="139" pc="268436302" symbol="onUpdate"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="141" pc="268436347" symbol="onUpdate"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="142" pc="268436411" symbol="onUpdate"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="144" pc="268436431" symbol="onUpdate"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="146" pc="268436467" symbol="onUpdate"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="147" pc="268436483" symbol="onUpdate"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="149" pc="268436499" symbol="onUpdate"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="150" pc="268436527" symbol="onUpdate"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="151" pc="268436567" symbol="onUpdate"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="152" pc="268436607" symbol="onUpdate"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="153" pc="268436647" symbol="onUpdate"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="154" pc="268436687" symbol="onUpdate"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="155" pc="268436721" symbol="onUpdate"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="156" pc="268436755" symbol="onUpdate"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="157" pc="268436789" symbol="onUpdate"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="165" pc="268436824" symbol="convertToScreenCoordinates"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="168" pc="268436828" symbol="convertToScreenCoordinates"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="169" pc="268436838" symbol="convertToScreenCoordinates"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="175" pc="268436905" symbol="convertToScreenCoordinates"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="176" pc="268436939" symbol="convertToScreenCoordinates"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="179" pc="268436952" symbol="convertToScreenCoordinates"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="180" pc="268436986" symbol="convertToScreenCoordinates"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="185" pc="268436999" symbol="convertToScreenCoordinates"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="186" pc="268437012" symbol="convertToScreenCoordinates"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="188" pc="268437025" symbol="convertToScreenCoordinates"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="189" pc="268437059" symbol="convertToScreenCoordinates"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="192" pc="268437072" symbol="convertToScreenCoordinates"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="193" pc="268437106" symbol="convertToScreenCoordinates"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="197" pc="268437119" symbol="convertToScreenCoordinates"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="200" pc="268437135" symbol="convertToScreenCoordinates"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="201" pc="268437148" symbol="convertToScreenCoordinates"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="204" pc="268437161" symbol="convertToScreenCoordinates"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="205" pc="268437174" symbol="convertToScreenCoordinates"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="209" pc="268437187" symbol="convertToScreenCoordinates"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="211" pc="268437187" symbol="convertToScreenCoordinates"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="212" pc="268437195" symbol="convertToScreenCoordinates"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="214" pc="268437202" symbol="convertToScreenCoordinates"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="218" pc="268437206" symbol="convertToScreenCoordinates"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="219" pc="268437234" symbol="convertToScreenCoordinates"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="222" pc="268437262" symbol="convertToScreenCoordinates"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="225" pc="268437287" symbol="convertToScreenCoordinates"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="230" pc="268437322" symbol="onEnterSleep"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableView.mc" lineNum="231" pc="268437326" symbol="onEnterSleep"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableApp.mc" lineNum="14" pc="268437343" symbol="initialize"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableApp.mc" lineNum="15" pc="268437347" symbol="initialize"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableApp.mc" lineNum="17" pc="268437365" symbol="initialize"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableApp.mc" lineNum="22" pc="268437406" symbol="onStart"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableApp.mc" lineNum="23" pc="268437410" symbol="onStart"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableApp.mc" lineNum="27" pc="268437459" symbol="onStop"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableApp.mc" lineNum="30" pc="268437464" symbol="onPosition"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableApp.mc" lineNum="31" pc="268437468" symbol="onPosition"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableApp.mc" lineNum="32" pc="268437497" symbol="onPosition"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableApp.mc" lineNum="36" pc="268437518" symbol="getInitialView"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableApp.mc" lineNum="38" pc="268437522" symbol="getInitialView"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/DrawableApp.mc" lineNum="39" pc="268437552" symbol="getInitialView"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/CoordinateTransformation.mc" lineNum="44" pc="268437576" symbol="convertToScreenCoordinates"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/CoordinateTransformation.mc" lineNum="47" pc="268437580" symbol="convertToScreenCoordinates"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/CoordinateTransformation.mc" lineNum="48" pc="268437590" symbol="convertToScreenCoordinates"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/CoordinateTransformation.mc" lineNum="54" pc="268437663" symbol="convertToScreenCoordinates"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/CoordinateTransformation.mc" lineNum="55" pc="268437697" symbol="convertToScreenCoordinates"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/CoordinateTransformation.mc" lineNum="58" pc="268437710" symbol="convertToScreenCoordinates"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/CoordinateTransformation.mc" lineNum="59" pc="268437744" symbol="convertToScreenCoordinates"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/CoordinateTransformation.mc" lineNum="64" pc="268437757" symbol="convertToScreenCoordinates"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/CoordinateTransformation.mc" lineNum="65" pc="268437770" symbol="convertToScreenCoordinates"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/CoordinateTransformation.mc" lineNum="67" pc="268437783" symbol="convertToScreenCoordinates"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/CoordinateTransformation.mc" lineNum="68" pc="268437817" symbol="convertToScreenCoordinates"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/CoordinateTransformation.mc" lineNum="71" pc="268437830" symbol="convertToScreenCoordinates"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/CoordinateTransformation.mc" lineNum="72" pc="268437864" symbol="convertToScreenCoordinates"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/CoordinateTransformation.mc" lineNum="76" pc="268437877" symbol="convertToScreenCoordinates"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/CoordinateTransformation.mc" lineNum="79" pc="268437893" symbol="convertToScreenCoordinates"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/CoordinateTransformation.mc" lineNum="80" pc="268437906" symbol="convertToScreenCoordinates"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/CoordinateTransformation.mc" lineNum="83" pc="268437919" symbol="convertToScreenCoordinates"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/CoordinateTransformation.mc" lineNum="84" pc="268437932" symbol="convertToScreenCoordinates"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/CoordinateTransformation.mc" lineNum="88" pc="268437945" symbol="convertToScreenCoordinates"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/CoordinateTransformation.mc" lineNum="90" pc="268437945" symbol="convertToScreenCoordinates"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/CoordinateTransformation.mc" lineNum="91" pc="268437953" symbol="convertToScreenCoordinates"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/CoordinateTransformation.mc" lineNum="93" pc="268437960" symbol="convertToScreenCoordinates"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/CoordinateTransformation.mc" lineNum="97" pc="268437964" symbol="convertToScreenCoordinates"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/CoordinateTransformation.mc" lineNum="98" pc="268437992" symbol="convertToScreenCoordinates"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/CoordinateTransformation.mc" lineNum="101" pc="268438020" symbol="convertToScreenCoordinates"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/CoordinateTransformation.mc" lineNum="104" pc="268438045" symbol="convertToScreenCoordinates"/>
+<entry filename="/Users/jtorres/Documents/workspace/NextAidStation/MyDrawable/source/CoordinateTransformation.mc" lineNum="114" pc="268438080" symbol="rotatePointToHeading"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="21" pc="268438086" symbol="initialize"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="22" pc="268438090" symbol="initialize"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="25" pc="268438115" symbol="draw"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="26" pc="268438119" symbol="draw"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="27" pc="268438126" symbol="draw"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="28" pc="268438133" symbol="draw"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="29" pc="268438146" symbol="draw"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="30" pc="268438159" symbol="draw"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="33" pc="268438182" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="34" pc="268438186" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="35" pc="268438222" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="36" pc="268438266" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="38" pc="268438302" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="39" pc="268438338" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="41" pc="268438383" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="42" pc="268438419" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="44" pc="268438464" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="45" pc="268438500" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="47" pc="268438562" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="48" pc="268438598" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="50" pc="268438665" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="51" pc="268438701" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="52" pc="268438746" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="53" pc="268438782" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="55" pc="268438827" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="56" pc="268438863" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="58" pc="268438930" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="59" pc="268438966" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="61" pc="268439248" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="62" pc="268439284" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="63" pc="268439334" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="64" pc="268439370" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="66" pc="268439432" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="67" pc="268439468" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="69" pc="268439530" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="70" pc="268439566" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="72" pc="268439628" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="73" pc="268439664" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="86" pc="268440035" symbol="initialize"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="87" pc="268440039" symbol="initialize"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="90" pc="268440064" symbol="draw"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="91" pc="268440068" symbol="draw"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="92" pc="268440075" symbol="draw"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="93" pc="268440082" symbol="draw"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="94" pc="268440095" symbol="draw"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="95" pc="268440108" symbol="draw"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="98" pc="268440131" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="99" pc="268440135" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="100" pc="268440171" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="101" pc="268440215" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="103" pc="268440251" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="104" pc="268440287" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="106" pc="268440346" symbol="drawComplex"/>
+<entry filename="/Applications/Eclipse.app/Contents/MacOS/Rez" lineNum="107" pc="268440382" symbol="drawComplex"/>
 </pcToLineNum>
 <symbolTable>
 <entry field="true" id="35" symbol="DISPLAY_WIDTH"/>
@@ -125,21 +180,23 @@
 <entry field="true" id="8388611" module="true" symbol="Toybox"/>
 <entry id="8388770" module="true" object="true" symbol="Strings"/>
 <entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389068" method="true" symbol="draw"/>
 <entry id="8388640" module="true" symbol="Lang"/>
 <entry id="8388639" module="true" symbol="Graphics"/>
-<entry id="50" method="true" symbol="rotatePointToHeading"/>
+<entry id="51" method="true" symbol="rotatePointToHeading"/>
 <entry id="8388769" module="true" object="true" symbol="Rez"/>
 <entry id="8389123" method="true" symbol="onShow"/>
+<entry id="48" method="true" symbol="drawComplex"/>
 <entry id="8388924" module="true" symbol="Gregorian"/>
 <entry field="true" id="22" symbol="markerImgHeight"/>
 <entry field="true" id="33" symbol="DISPLAY_PADDING"/>
 <entry field="true" id="34" symbol="DISPLAY_HEIGHT"/>
 <entry id="8388702" method="true" symbol="initialize"/>
 <entry field="true" id="32" symbol="QUARTER_PI"/>
-<entry field="true" id="48" symbol="AppName"/>
+<entry field="true" id="49" symbol="AppName"/>
 <entry id="9" object="true" symbol="MyWatchView"/>
-<entry field="true" id="49" symbol="positionView"/>
-<entry field="true" id="13" symbol="backdrop"/>
+<entry field="true" id="50" symbol="positionView"/>
+<entry field="true" id="13" object="true" symbol="backdrop"/>
 <entry id="8388641" module="true" symbol="Math"/>
 <entry field="true" id="16" symbol="blueCircle"/>
 <entry field="true" id="47" symbol="LauncherIcon"/>
@@ -166,7 +223,7 @@
 <entry field="true" id="21" symbol="locCtrY"/>
 <entry field="true" id="20" symbol="locCtrX"/>
 <entry id="44" module="true" symbol="Layouts"/>
-<entry field="true" id="12" symbol="train"/>
+<entry field="true" id="12" object="true" symbol="train"/>
 <entry id="8388642" module="true" symbol="Position"/>
 <entry field="true" id="8389764" symbol="points"/>
 <entry field="true" id="46" symbol="circle"/>
@@ -184,36 +241,56 @@
 <entry field="true" id="26" symbol="currLocLatDeg"/>
 </symbolTable>
 <localVars>
-<entry endPc="268435869" name="dc" stackId="1" startPc="268435864"/>
-<entry endPc="268436049" name="info" stackId="1" startPc="268435874"/>
-<entry endPc="268436804" name="dc" stackId="1" startPc="268436049"/>
-<entry endPc="268437301" name="mercatorY" stackId="2" startPc="268436808"/>
-<entry endPc="268437301" name="mercatorX" stackId="1" startPc="268436808"/>
-<entry endPc="268437301" name="positiveY" stackId="4" startPc="268436808"/>
-<entry endPc="268437301" name="positiveX" stackId="3" startPc="268436808"/>
-<entry endPc="268437301" name="mapWidthRatio" stackId="8" startPc="268436808"/>
-<entry endPc="268437301" name="mapWidth" stackId="6" startPc="268436808"/>
-<entry endPc="268437301" name="mapHeight" stackId="7" startPc="268436808"/>
-<entry endPc="268437301" name="paddingBothSides" stackId="5" startPc="268436808"/>
-<entry endPc="268437301" name="mapHeightRatio" stackId="9" startPc="268436808"/>
-<entry endPc="268437301" name="heightPadding" stackId="11" startPc="268436808"/>
-<entry endPc="268437301" name="widthPadding" stackId="12" startPc="268436808"/>
-<entry endPc="268437301" name="globalRatio" stackId="10" startPc="268436808"/>
-<entry endPc="268437439" name="state" stackId="1" startPc="268437386"/>
-<entry endPc="268437444" name="state" stackId="1" startPc="268437439"/>
-<entry endPc="268437498" name="info" stackId="1" startPc="268437444"/>
-<entry endPc="268438059" name="mercatorY" stackId="2" startPc="268437560"/>
-<entry endPc="268438059" name="mercatorX" stackId="1" startPc="268437560"/>
-<entry endPc="268438059" name="positiveY" stackId="4" startPc="268437560"/>
-<entry endPc="268438059" name="positiveX" stackId="3" startPc="268437560"/>
-<entry endPc="268438059" name="mapWidthRatio" stackId="8" startPc="268437560"/>
-<entry endPc="268438059" name="mapWidth" stackId="6" startPc="268437560"/>
-<entry endPc="268438059" name="mapHeight" stackId="7" startPc="268437560"/>
-<entry endPc="268438059" name="paddingBothSides" stackId="5" startPc="268437560"/>
-<entry endPc="268438059" name="mapHeightRatio" stackId="9" startPc="268437560"/>
-<entry endPc="268438059" name="heightPadding" stackId="11" startPc="268437560"/>
-<entry endPc="268438059" name="widthPadding" stackId="12" startPc="268437560"/>
-<entry endPc="268438059" name="globalRatio" stackId="10" startPc="268437560"/>
+<entry endPc="268435889" name="dc" stackId="1" startPc="268435864"/>
+<entry endPc="268436069" name="info" stackId="1" startPc="268435894"/>
+<entry endPc="268436824" name="dc" stackId="1" startPc="268436069"/>
+<entry endPc="268437321" name="mercatorY" stackId="2" startPc="268436828"/>
+<entry endPc="268437321" name="mercatorX" stackId="1" startPc="268436828"/>
+<entry endPc="268437321" name="positiveY" stackId="4" startPc="268436828"/>
+<entry endPc="268437321" name="positiveX" stackId="3" startPc="268436828"/>
+<entry endPc="268437321" name="mapWidthRatio" stackId="8" startPc="268436828"/>
+<entry endPc="268437321" name="mapWidth" stackId="6" startPc="268436828"/>
+<entry endPc="268437321" name="mapHeight" stackId="7" startPc="268436828"/>
+<entry endPc="268437321" name="paddingBothSides" stackId="5" startPc="268436828"/>
+<entry endPc="268437321" name="mapHeightRatio" stackId="9" startPc="268436828"/>
+<entry endPc="268437321" name="heightPadding" stackId="11" startPc="268436828"/>
+<entry endPc="268437321" name="widthPadding" stackId="12" startPc="268436828"/>
+<entry endPc="268437321" name="globalRatio" stackId="10" startPc="268436828"/>
+<entry endPc="268437459" name="state" stackId="1" startPc="268437406"/>
+<entry endPc="268437464" name="state" stackId="1" startPc="268437459"/>
+<entry endPc="268437518" name="info" stackId="1" startPc="268437464"/>
+<entry endPc="268438079" name="mercatorY" stackId="2" startPc="268437580"/>
+<entry endPc="268438079" name="mercatorX" stackId="1" startPc="268437580"/>
+<entry endPc="268438079" name="positiveY" stackId="4" startPc="268437580"/>
+<entry endPc="268438079" name="positiveX" stackId="3" startPc="268437580"/>
+<entry endPc="268438079" name="mapWidthRatio" stackId="8" startPc="268437580"/>
+<entry endPc="268438079" name="mapWidth" stackId="6" startPc="268437580"/>
+<entry endPc="268438079" name="mapHeight" stackId="7" startPc="268437580"/>
+<entry endPc="268438079" name="paddingBothSides" stackId="5" startPc="268437580"/>
+<entry endPc="268438079" name="mapHeightRatio" stackId="9" startPc="268437580"/>
+<entry endPc="268438079" name="heightPadding" stackId="11" startPc="268437580"/>
+<entry endPc="268438079" name="widthPadding" stackId="12" startPc="268437580"/>
+<entry endPc="268438079" name="globalRatio" stackId="10" startPc="268437580"/>
+<entry endPc="268438181" name="pWidth" stackId="4" startPc="268438119"/>
+<entry endPc="268438181" name="pY" stackId="3" startPc="268438119"/>
+<entry endPc="268438181" name="pX" stackId="2" startPc="268438119"/>
+<entry endPc="268438181" name="pHeight" stackId="5" startPc="268438119"/>
+<entry endPc="268438182" name="dc" stackId="1" startPc="268438115"/>
+<entry endPc="268440035" name="pWidth" stackId="4" startPc="268438182"/>
+<entry endPc="268440035" name="dc" stackId="1" startPc="268438182"/>
+<entry endPc="268440035" name="pY" stackId="3" startPc="268438182"/>
+<entry endPc="268440035" name="pX" stackId="2" startPc="268438182"/>
+<entry endPc="268440035" name="pHeight" stackId="5" startPc="268438182"/>
+<entry endPc="268440130" name="pWidth" stackId="4" startPc="268440068"/>
+<entry endPc="268440130" name="pY" stackId="3" startPc="268440068"/>
+<entry endPc="268440130" name="pX" stackId="2" startPc="268440068"/>
+<entry endPc="268440130" name="pHeight" stackId="5" startPc="268440068"/>
+<entry endPc="268440131" name="dc" stackId="1" startPc="268440064"/>
+<entry endPc="268440428" name="pWidth" stackId="4" startPc="268440131"/>
+<entry endPc="268440428" name="dc" stackId="1" startPc="268440131"/>
+<entry endPc="268440428" name="pY" stackId="3" startPc="268440131"/>
+<entry endPc="268440428" name="pX" stackId="2" startPc="268440131"/>
+<entry endPc="268440428" name="pHeight" stackId="5" startPc="268440131"/>
 </localVars>
 <annotations/>
 <functions>
@@ -265,18 +342,50 @@
 <functionEntry accessMode="public" name="rotatePointToHeading" parent="CoordinateTransformation">
 <documentation/>
 </functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="train">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="draw" parent="train">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawComplex" parent="train">
+<param id="dc"/>
+<param id="pX"/>
+<param id="pY"/>
+<param id="pWidth"/>
+<param id="pHeight"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="backdrop">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="draw" parent="backdrop">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawComplex" parent="backdrop">
+<param id="dc"/>
+<param id="pX"/>
+<param id="pY"/>
+<param id="pWidth"/>
+<param id="pHeight"/>
+<documentation/>
+</functionEntry>
 </functions>
 <dataEntryOffsetMappings>
 <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
 <dataEntry offset="182" parentId="globals" symbolId="MyWatchView" type="class"/>
 <dataEntry offset="517" parentId="globals" symbolId="Rez" type="module"/>
 <dataEntry offset="596" parentId="Rez" symbolId="Drawables" type="module"/>
-<dataEntry offset="659" parentId="Rez" symbolId="Menus" type="module"/>
-<dataEntry offset="690" parentId="Rez" symbolId="Fonts" type="module"/>
-<dataEntry offset="721" parentId="Rez" symbolId="JsonData" type="module"/>
-<dataEntry offset="752" parentId="Rez" symbolId="Layouts" type="module"/>
-<dataEntry offset="783" parentId="Rez" symbolId="Strings" type="module"/>
-<dataEntry offset="822" parentId="globals" symbolId="MyApp" type="class"/>
-<dataEntry offset="909" parentId="globals" symbolId="CoordinateTransformation" type="class"/>
+<dataEntry offset="675" parentId="Drawables" symbolId="backdrop" type="class"/>
+<dataEntry offset="738" parentId="Drawables" symbolId="train" type="class"/>
+<dataEntry offset="801" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="832" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="863" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="894" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="925" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="964" parentId="globals" symbolId="MyApp" type="class"/>
+<dataEntry offset="1051" parentId="globals" symbolId="CoordinateTransformation" type="class"/>
 </dataEntryOffsetMappings>
 </debugInfo>

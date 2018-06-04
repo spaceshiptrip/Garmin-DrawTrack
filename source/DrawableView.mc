@@ -35,8 +35,8 @@ class MyWatchView extends WatchUi.View {
 	var currLocRad; // current location in radians
 	
 	//actual point on map
-	var currLocLatDeg = 34.19536;
-	var currLocLonDeg = -118.21215;
+	var currLocLatDeg =   34.197100;
+	var currLocLonDeg = -118.215220;
 	
 	var currLocLatRad;
 	var currLocLonRad;
@@ -46,19 +46,19 @@ class MyWatchView extends WatchUi.View {
 	
 	var QUARTER_PI = Math.PI / 4;
 	
-	var DISPLAY_PADDING = 2;
+	var DISPLAY_PADDING = 20;
 	var DISPLAY_HEIGHT  = 180;
 	var DISPLAY_WIDTH   = 215;
 	
-	var minX = -2.062456158852299;
-    var minY = 0.6357554191207595;
-    var maxX = 0.00935990988441926;
-    var maxY = 0.004003124971883487;
+//	var minX = -2.062456158852299;
+//    var minY =  0.6357554191207595;
+//    var maxX =  0.00935990988441926;
+//    var maxY =  0.004003124971883487;
 
-//	var minX = -2.0639926885539306;
-//    var minY = 0.6353264897906945;
-//    var maxX = 0.0008824384698082;
-//    var maxY = 0.0006327755713624;
+	var minX = -2.0639926885539306;
+    var minY = 0.6353264897906945;
+    var maxX = 0.0008824384698082;
+    var maxY = 0.0006327755713624;
     
     var currLocFromGPS;
 	
@@ -92,6 +92,9 @@ class MyWatchView extends WatchUi.View {
         //WatchUi.animate( cloud, :locX, WatchUi.ANIM_TYPE_LINEAR, 10, dc.getWidth() + 50, 10, null );
 //        DISPLAY_HEIGHT = dc.getHeight();
 //        DISPLAY_WIDTH = dc.getWidth();
+
+		gpxTrack.draw(dc);
+
     }
 
     function onShow() {
@@ -157,11 +160,7 @@ class MyWatchView extends WatchUi.View {
         //train.draw(dc);
     }
     
-    //TODO The software has to know the min and the max
-    //TODO there has to be a way to pass the information along to the software
-    //TODO is there a way to read the data from a file?
-    //TODO maybe that is why it has to connect to the server, it passes along information
-    //TODO upon each map when they are loaded
+
     // Start porting the computation to convert GPS coordinates to screen coordinates
     function convertToScreenCoordinates() {
 
