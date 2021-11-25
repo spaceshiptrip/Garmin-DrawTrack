@@ -1,6 +1,5 @@
-
-
-
+// This class does the coordinate transforms from real-world to screen-world coordinates
+// There is some fudge factor in order to draw it the right size for the screen
 class CoordinateTransformation {
 
 	var currLocDeg; // current location in degrees
@@ -21,7 +20,9 @@ class CoordinateTransformation {
 	var DISPLAY_PADDING = 2;
 	var DISPLAY_HEIGHT  = 180;
 	var DISPLAY_WIDTH   = 215;
-	
+
+    // Fudge factors depending on the screen resolution
+    // TODO compute this programmatically to eliminate the FUDGE
 	var minX = -2.062456158852299;
     var minY = 0.6357554191207595;
     var maxX = 0.00935990988441926;
@@ -105,6 +106,9 @@ class CoordinateTransformation {
     }
     
     
+    // Next funtion allows an arrowhead to be used as the asset marker
+    // allowing for direction to be displayed
+    // Still work in progress
     // Simple rotation function: https://en.wikipedia.org/wiki/Rotation_(mathematics)
     // Given a point (x, y) and angle theta, rotate that point around angle
     // x' = x * cos (theta) - y * sin (theta)
